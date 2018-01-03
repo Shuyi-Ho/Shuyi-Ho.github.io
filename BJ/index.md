@@ -10,7 +10,6 @@ image:
   teaser:
 ---
 
-come back
 
 <div class="tiles">
 {% for post in site.categories.BJ %}

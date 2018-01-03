@@ -71,12 +71,15 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $Honeydew3;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
+			&:hover{
+			     color: $Honeydew3;
+				 background-color: $black
 		}
 	}
 }

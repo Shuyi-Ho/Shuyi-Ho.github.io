@@ -46,7 +46,7 @@ locales:
      overview: "总览"
      toc: "目录"
      written_by: "Shuyi-Ho"
-     updated: "2018："
+     updated: "日期："
      share: "分享"
   zh_TW:
      <<: *DEFAULT_ZH     # use German translation for de_DE

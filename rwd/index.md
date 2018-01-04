@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学习笔记"
+title: "web学习笔记"
 date: 2017-12-30T11:40:45-04:00
 modified:
 excerpt: "很爱学习的证明"

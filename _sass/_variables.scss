@@ -29,7 +29,7 @@ $border-radius               	: 3px;
 
 $white                        : #fff; 
 $black                        : #000;
-$bwhite                       : rgba(60,179,113,1);
+$LightCyan3                   : rgba(180 205 205,1);
 $GoldEnrod                    : #daa520;
 
 $body-color                  	: #ebebeb;
@@ -37,12 +37,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #595959;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $bwhite;
+$base-color                  	: $LightCyan3;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $bwhite;
+$primary-color               	: $LightCyan3;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;

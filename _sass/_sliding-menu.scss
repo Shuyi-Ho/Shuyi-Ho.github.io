@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $GoldEnrod;
+    background: $IndianRed1;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -144,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $GoldEnrod;
+      border: 3px solid $IndianRed1;
     }
     .title {
       display: block;
@@ -167,7 +167,7 @@
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: $GoldEnrod;
+        color: $IndianRed1;
     }
   }
   .sub-menu-item > li a {

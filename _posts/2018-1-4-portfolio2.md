@@ -4,7 +4,7 @@ title:  "期中专案"
 date:   2018-1-3 23:07:50 +0800
 categories: portfolio
 image:
-  teaser: portfolio-image2.jpg
+  teaser: portfolio-image2.jpeg
 ---
 ### 作品2
 

@@ -3,19 +3,19 @@
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: "搞到秃头的东西"
-  image: timg.gif
+  image: portfolio.gif
 
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: "好看不好玩的图"
-  image: emmmmm.gif
+  image: infovis.gif
 
 - title: web学习笔记
   url: /rwd/
   excerpt: "很爱学习的证明"
-  image: 201608120847247917.gif
-  
-  title: 信息可视化学习笔记
+  image: rwd-notes.gif
+
+- title: 信息可视化学习笔记
   url: /infovis/
   excerpt: "很爱学习的证明"
-  image: 201608120847247917.gif
+  image: infovis-notes.gif

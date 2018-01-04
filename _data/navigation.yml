@@ -1,16 +1,21 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /web/
+  url: /portfolio/
   excerpt: "搞到秃头的东西"
   image: timg.gif
 
 - title: 信息可视化作品集
-  url: /keshihua/
+  url: /infovis/
   excerpt: "好看不好玩的图"
   image: emmmmm.gif
 
-- title: 学习笔记
-  url: /BJ/
+- title: web学习笔记
+  url: /rwd/
+  excerpt: "很爱学习的证明"
+  image: 201608120847247917.gif
+  
+   title: 信息可视化学习笔记
+  url: /infovis/
   excerpt: "很爱学习的证明"
   image: 201608120847247917.gif

@@ -15,4 +15,4 @@ image:
 {% for post in site.categories.BJ %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 BJ 的列出来-->
+</div><!-- /.tiles 把所有categories 有 rwd 的列出来-->

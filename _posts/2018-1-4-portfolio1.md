@@ -8,5 +8,5 @@ image:
 ---
 ### 作品1
 
-####有关PS调色教程
+#### 有关PS调色教程
 [第一次作业](https://Shuyi-Ho.github.io/portfolio/homework)

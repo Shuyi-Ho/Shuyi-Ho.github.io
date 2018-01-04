@@ -6,7 +6,6 @@ modified:
 excerpt: "很爱学习的证明"
 tags: []
 image: 
-  feature: 300x200.gif
   teaser:
 ---
 

@@ -7,7 +7,6 @@ excerpt: ">.<"
 tags: []
 image: 
   feature: notes.gif
-  teaser:
 ---
 
 

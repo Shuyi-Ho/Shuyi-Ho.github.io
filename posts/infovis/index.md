@@ -7,7 +7,6 @@ excerpt: "更爱学习的证明"
 tags: []
 image: 
   feature: notes.gif
-  teaser:
 ---
 
 

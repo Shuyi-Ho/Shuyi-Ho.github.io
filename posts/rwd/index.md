@@ -6,7 +6,7 @@ modified:
 excerpt: "很爱学习的证明"
 tags: []
 image: 
-  feature: rwd-notes.gif
+  feature: rwdnoteimage.gif
 ---
 
 

@@ -6,7 +6,7 @@ modified:
 excerpt: "很爱学习的证明"
 tags: []
 image: 
-  teaser:
+  teaser:rwd-notes.gif
 ---
 
 

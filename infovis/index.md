@@ -8,6 +8,9 @@ tags: []
 image: 
   feature: notes.gif
 ---
+#### 期末作品集
+- < a href="https://public.tableau.com/shared/9H623DD2T?:display_count=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a520e66b50f0.png)</ a>
+
 
 
 <div class="tiles">

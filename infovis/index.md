@@ -9,7 +9,7 @@ image:
   feature: notes.gif
 ---
 - 期末作品集
-- [链接](https://public.tableau.com/shared/JQKQCR576?:display_count=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a521c9ada0f3.png)
+- [链接](https://public.tableau.com/views/edugdp/1_2?:embed=y&:display_count=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a521c9ada0f3.png)
 
 
 <div class="tiles">
